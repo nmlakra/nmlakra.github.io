@@ -14,7 +14,11 @@ output:
  
 ## Bio
 
-At Elucidata, our team leverages my expertise in computational biology and biotechnology, honed through a Master of Technology from Indraprastha Institute of Information Technology and a Master's in Biotechnology from Gautam Buddha University. Since joining in October 2022, we've applied my skills in Transcriptomics, Machine Learning and Python to advance our research, contributing to meaningful advancements in the field of bioinformatics. My core competencies lie in seamlessly integrating complex data analysis with biological insights to drive innovation and discovery in our ongoing projects.
+At Elucidata, I bring together my passion for computers, infatuation with biology, and a relentless drive to solve complex problems through data. With a Master of Technology from the Indraprastha Institute of Information Technology and a Master's in Biotechnology from Gautam Buddha University, I have built a strong foundation in computational biology and biotechnology.
+
+Since joining in October 2022, I have been leveraging my expertise in transcriptomics, machine learning, and Python to advance research and drive innovation in bioinformatics. My work is focused on seamlessly integrating complex data analysis with biological insights, enabling meaningful advancements in our understanding of biology and contributing to cutting-edge discoveries.
+
+Fueled by curiosity and a commitment to making a difference, I thrive on tackling challenging questions and turning data into actionable knowledge that pushes the boundaries of science.
 
 ## Education
 
@@ -24,7 +28,7 @@ M.Tech in Computation Biology | August 2019 - January 2022
 
 **Gautam Buddha University** | UP, India 
 
-Integrated B.Tech and M.Tech in Biotechnology | August 2005 - May 2009
+Integrated B.Tech and M.Tech in Biotechnology | August 2014 - May 2019
 
 ## Experience
 
