@@ -1,45 +1,31 @@
 ---
 title: "Nikhil Mark Lakra"
-image: "sigridur.jpg"
+image: "nikhilmarklakra.jpg"
 links:
-  - label: Resume
-    url: "https://linkedin.com/"
-  - label: Blog
-    url: "https://medium.com/"
-  - label: SoundCloud
-    url: "https://soundcloud.com/"
-  - label: Twitter
-    url: "https://twitter.com/"
+  - label: LinkedIn
+    url: "https://linkedin.com/in/nikhil-mark-lakra"
+  - label: Github
+    url: "https://github.com/nmlakra"
+  - label: Email
+    url: "mailto:nikhilmarklakra@gmail.com"
 output:
   postcards::solana
 ---
  
 ## Bio
 
-Sigríður Björndotter is a musician, vocalist, and live entertainment consultant
-living in Buenos Aires, Argentina. Her writing has appeared in Rolling Stone,
-Billboard, and NME, and she is a frequent contributor to National Public Radio's 
-*All Songs Considered*. She has been raising Pembroke Welsh Corgis since the age
-of six, and she has collected Casio watches since the age of ten.
+At Elucidata, our team leverages my expertise in computational biology and biotechnology, honed through a Master of Technology from Indraprastha Institute of Information Technology and a Master's in Biotechnology from Gautam Buddha University. Since joining in October 2022, we've applied my skills in Transcriptomics, Machine Learning and Python to advance our research, contributing to meaningful advancements in the field of bioinformatics. My core competencies lie in seamlessly integrating complex data analysis with biological insights to drive innovation and discovery in our ongoing projects.
 
 ## Education
 
-**INSEAD** | Fontainebleau, France
+**Indraprastha Institute of Information Techonology Delhi** | Delhi, India
 
-M.B.A. | August 2014 - June 2015
+M.Tech in Computation Biology | August 2019 - January 2022
 
-**The Juilliard School** | New York, NY
+**Gautam Buddha University** | UP, India 
 
-B.F.A. in Music Performance | August 2005 - May 2009
+Integrated B.Tech and M.Tech in Biotechnology | August 2005 - May 2009
 
 ## Experience
 
-**Freelance** | Live Entertainment Consultant | August 2018 - Present
-
-**Cercle** | Producer | August 2018 - Present
-
-**National Public Radio** | Producer | May 2015 - July 2018
-
-**NME Magazine** | Editor | July 2014 - July 2016
-
-**Iceland Symphony Orchestra** | Cellist | October 2009 - June 2014
+**Elucidata** | Bioinformatics Scientist | October 2022 - Present
