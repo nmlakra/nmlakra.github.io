@@ -9,7 +9,7 @@ links:
   - label: Email
     url: "mailto:nikhilmarklakra@gmail.com"
   - label: Resume
-    url: "./Nikhil Lakra Resume.pdf"
+    url: "./Nikhil_Lakra_Resume.pdf"
 output:
   postcards::solana:
     params:
